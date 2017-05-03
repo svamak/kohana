@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
-	<head></head>
-	<body></body>
+	<head>
+		<title>KOHANA</title>
+	</head>
+	<body>
+	
+	</body>
 </html>
