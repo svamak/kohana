@@ -1,1 +1,1 @@
-Learn kohana
+Learn kohana and frogs
